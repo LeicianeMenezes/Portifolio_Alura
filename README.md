@@ -1,30 +1,33 @@
-💜 Meu Portifólio
+💜 Meu Portfólio
 Este projeto foi desenvolvido como parte de um desafio do programa ONE (Oracle Next Education) da Alura.
+
 A página tem como objetivo apresentar um pouco sobre mim, minhas experiências e objetivos profissionais. 🌟
 
-🛠 Tecnologias | ✨ Projeto | 💌 Contato
-📷 Preview Portifólio_Alura
-
-🛠 Tecnologias
+🛠 Tecnologias Utilizadas
 Este projeto foi construído com:
 
 HTML5 🌐
-CSS3 🎨
-E muita dedicação! 💪
 
-✨ Projeto
+CSS3 🎨
+
+E muita dedicação! 💪
+![Portifólio_Alura](https://github.com/user-attachments/assets/e8b364fc-2339-425b-bc15-53ffd3ebc8bf)
+
+✨ Sobre o Projeto
 Este portfólio é um espaço onde compartilho:
 
 Minha formação e trajetória acadêmica.
+
 Meus objetivos profissionais.
+
 Links para redes sociais e contato.
+
 Um layout moderno, acessível e responsivo.
+
 🌍 Acesse o Projeto
 Você pode conferir meu portfólio publicado aqui:
 
-👉 Clique para ver online
-
-(Atualize com o link real quando publicar no GitHub Pages!)
+👉 Clique para ver online (Atualize com o link real quando publicar no GitHub Pages!)
 
 💜 Agradecimentos
 Gratidão à Alura e ao programa Oracle Next Education por todo o incentivo, aprendizados e inspiração. 💫
@@ -33,7 +36,8 @@ Gratidão à Alura e ao programa Oracle Next Education por todo o incentivo, apr
 Quer conversar ou conhecer mais sobre mim? Me encontra por aqui:
 
 💼 LinkedIn
+
 🧠 GitHub
+
 ✉️ Email: menezesleiciane@gmail.com
-✨ Autora
-Feito com 💜 por Leiciane Menezes
+
