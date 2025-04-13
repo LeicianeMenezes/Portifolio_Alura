@@ -61,7 +61,4 @@ Quer conversar ou conhecer mais sobre mim? Me encontra por aqui:
 ---
 
 ## ✨ Autora
-
-![Imagem (2)](https://github.com/user-attachments/assets/8e07868d-37be-4001-86e5-8a4439c89803)
-
-Feito com 💜 por **Leiciane Menezes**
+Feito por **Leiciane Menezes** 💜
