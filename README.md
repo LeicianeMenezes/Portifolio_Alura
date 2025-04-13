@@ -9,7 +9,7 @@ A página tem como objetivo apresentar um pouco sobre mim, minhas experiências 
 
 ## 📷 Preview
 
-![Portifólio_Alura](https://github.com/user-attachments/assets/2883bd97-f014-4796-93c6-71165f2b1778)
+![Portifólio_Alura](https://github.com/user-attachments/assets/33f98960-dd4a-4c32-b22f-30d6b98bad5a)
 
 ---
 
