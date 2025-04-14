@@ -40,7 +40,6 @@ Este portfólio é um espaço onde compartilho:
 Você pode conferir meu portfólio publicado aqui:
 
 👉 [Clique para ver online]([https://leicianem.github.io/**nome-do-repositorio-aqui**](https://leicianemenezes.github.io/Portifolio_Alura/))  
-> *(Atualize com o link real quando publicar no GitHub Pages!)*
 
 ---
 
